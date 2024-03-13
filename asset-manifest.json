@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WeatherAppReact/static/css/main.a10a65f6.css",
+    "main.js": "/WeatherAppReact/static/js/main.f6b908f8.js",
+    "static/js/787.8cf52469.chunk.js": "/WeatherAppReact/static/js/787.8cf52469.chunk.js",
+    "static/media/thunderstorms-day-rain.svg": "/WeatherAppReact/static/media/thunderstorms-day-rain.cf2f560fa53ddceb46117cac7ed8bfc5.svg",
+    "static/media/haze-day.svg": "/WeatherAppReact/static/media/haze-day.427c3b66062d2d1ab9e75fdc1230a786.svg",
+    "static/media/haze-night.svg": "/WeatherAppReact/static/media/haze-night.2e38e0567d6f64f9fe9db8b7a25256e6.svg",
+    "static/media/rain.svg": "/WeatherAppReact/static/media/rain.bb1a2bbd4f9a773109029a936db8696e.svg",
+    "static/media/drizzle.svg": "/WeatherAppReact/static/media/drizzle.f976bcdbb6408388ba6b3c95b97deb4f.svg",
+    "static/media/mist.svg": "/WeatherAppReact/static/media/mist.32e665d921e74ac88afbfdeb987bab9c.svg",
+    "static/media/clear-day.svg": "/WeatherAppReact/static/media/clear-day.2909a175d21b0bc0a0c5cc4d70ede315.svg",
+    "static/media/clear-night.svg": "/WeatherAppReact/static/media/clear-night.cc5c9e4da17d8f345e593a1e5014ed37.svg",
+    "static/media/cloudy.svg": "/WeatherAppReact/static/media/cloudy.73c058e1e92399013d7c41be494b9ac0.svg",
+    "index.html": "/WeatherAppReact/index.html",
+    "static/media/search.svg": "/WeatherAppReact/static/media/search.1968d156e100beb4e474b7e7caad901b.svg",
+    "main.a10a65f6.css.map": "/WeatherAppReact/static/css/main.a10a65f6.css.map",
+    "main.f6b908f8.js.map": "/WeatherAppReact/static/js/main.f6b908f8.js.map",
+    "787.8cf52469.chunk.js.map": "/WeatherAppReact/static/js/787.8cf52469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10a65f6.css",
+    "static/js/main.f6b908f8.js"
+  ]
+}
